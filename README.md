@@ -28,7 +28,7 @@ To simplify the setting step, you can install the Java environment [1], then dow
 3. In Eclipse, select File > Import... > Maven > Existing Maven Projects > click Next.
 4. In Root Directory, point to the folder contains the source, then in Projects board below you would see /pom.xml of automation project. Select it and click Finish to complete the import process.
 5. To import the execution configuration, select File > Import... > Run/Debug > Launch Configurations > click Next.
-6. In From Directory, point to the folder contains the execution configuration named 'websparks-eclipse-config', select this launch file in the below window and click Finish to complete the import process. After this step, in Run Configurations window, you would see 'websparks-eclipse-config' under Maven Build category.
+6. In From Directory, point to the folder contains the execution configuration named '[websparks-eclipse-config](https://drive.google.com/file/d/1UQ_CyPSz75uVhMnKuLTydKHJlmcfkZ2t/view?usp=sharing)', select this launch file in the below window and click Finish to complete the import process. After this step, in Run Configurations window, you would see 'websparks-eclipse-config' under Maven Build category.
 7. To execute the test, open ./suites/websparks.xml, right-click and select Run As > Run Configurations. In Run Configurations window, select Maven Build > websparks-eclipse-config and click Run.
 
 <!-- CONTACT -->
