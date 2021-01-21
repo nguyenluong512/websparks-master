@@ -1,0 +1,37 @@
+# Created at 2021-01-20T14:12:26.732
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-01-20T14:12:28.022
+Unexpected IOException with stream: 2021-01-20 14:12:28 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Sign out.
+
+
+# Created at 2021-01-20T14:12:28.047
+Unexpected IOException with stream: 2021-01-20 14:12:28 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Verify page is loaded.
+
+
+# Created at 2021-01-20T14:12:28.183
+Unexpected IOException with stream: 2021-01-20 14:12:28 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Go to Sign In with Github.
+
+
+# Created at 2021-01-20T14:12:38.185
+Unexpected IOException with stream: 2021-01-20 14:12:38 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Wait 10 seconds.
+
+
+# Created at 2021-01-20T14:12:42.293
+Unexpected IOException: 8,1,com.websparks.tests.TestTodoLists,testAuthenticatedAddingAndRemovingTodoList(com.websparks.tests.TestTodoLists),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,TestTodoLists.testAuthenticatedAddingAndRemovingTodoList:23 \00BB WebDriver java.n...,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:23)\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:23)\000ACaused by: java.net.ConnectException: Connection refused: connect\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:23)\000A
+
+
+# Created at 2021-01-20T14:12:46.361
+Unexpected IOException: 8,1,com.websparks.tests.TestTodoLists,afterSuite(com.websparks.tests.TestTodoLists),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,TestTodoLists>BaseTest.afterSuite:21 \00BB WebDriver java.net.ConnectException: Fa...,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:26340\000ACaused by: java.net.ConnectException: Connection refused: connect\000A
+
+
+# Created at 2021-01-20T14:12:46.417
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

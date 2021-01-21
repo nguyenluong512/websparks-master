@@ -1,0 +1,8 @@
+{
+	"todoListsUrl": "https://todo-list-login.firebaseapp.com/",
+	"email": "websparkstester@gmail.com",
+	"password": "Websparks@1234",
+	"nbrLists": "10",
+	"startRemoveIndex": "5",
+	"endRemoveIndex": "10"
+}

@@ -1,0 +1,302 @@
+# Created at 2021-01-20T12:09:38.871
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-01-20T12:09:39.779
+Unexpected IOException with stream: 2021-01-20 12:09:39 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Submit.
+
+
+# Created at 2021-01-20T12:09:39.781
+Unexpected IOException with stream: 2021-01-20 12:09:39 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Parent window CDwindow-A0A07DB2E8112BEB0268D84204808D43
+
+
+# Created at 2021-01-20T12:09:39.786
+Unexpected IOException with stream: 2021-01-20 12:09:39 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Number of windows: 2
+
+
+# Created at 2021-01-20T12:09:39.808
+Unexpected IOException with stream: 2021-01-20 12:09:39 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Switch to CDwindow-154BFF3A1E7071BE01B4524FE238A8AE
+
+
+# Created at 2021-01-20T12:09:39.808
+Unexpected IOException with stream: 2021-01-20 12:09:39 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Log In with email.
+
+
+# Created at 2021-01-20T12:09:41.925
+Unexpected IOException with stream: 2021-01-20 12:09:41 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Verify user is connected.
+
+
+# Created at 2021-01-20T12:09:41.929
+Unexpected IOException with stream: 2021-01-20 12:09:41 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add HryjErsSlW to Todo Lists
+
+
+# Created at 2021-01-20T12:09:42.185
+Unexpected IOException with stream: 2021-01-20 12:09:42 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add xZpBmNWUcH to Todo Lists
+
+
+# Created at 2021-01-20T12:09:42.370
+Unexpected IOException with stream: 2021-01-20 12:09:42 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add cr8ipv5u81 to Todo Lists
+
+
+# Created at 2021-01-20T12:09:42.664
+Unexpected IOException with stream: 2021-01-20 12:09:42 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add gHqgCbLlSD to Todo Lists
+
+
+# Created at 2021-01-20T12:09:42.855
+Unexpected IOException with stream: 2021-01-20 12:09:42 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add A0FqRaUX5P to Todo Lists
+
+
+# Created at 2021-01-20T12:09:43.079
+Unexpected IOException with stream: 2021-01-20 12:09:43 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add AJC07RSLVI to Todo Lists
+
+
+# Created at 2021-01-20T12:09:43.373
+Unexpected IOException with stream: 2021-01-20 12:09:43 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add SCkuM3e35l to Todo Lists
+
+
+# Created at 2021-01-20T12:09:43.568
+Unexpected IOException with stream: 2021-01-20 12:09:43 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add Du5SePgtQR to Todo Lists
+
+
+# Created at 2021-01-20T12:09:43.752
+Unexpected IOException with stream: 2021-01-20 12:09:43 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add JmGykq4aKT to Todo Lists
+
+
+# Created at 2021-01-20T12:09:43.953
+Unexpected IOException with stream: 2021-01-20 12:09:43 [TestNG-test=WebDesk-SmokeTest-1] INFO  Logger - Add tEdofaAjNI to Todo Lists
+
+
+# Created at 2021-01-20T12:09:56.185
+Unexpected IOException with stream: [
+
+# Created at 2021-01-20T12:09:56.185
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.186
+Unexpected IOException with stream: 6
+
+# Created at 2021-01-20T12:09:56.186
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.186
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.186
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.187
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.187
+Unexpected IOException with stream: 9
+
+# Created at 2021-01-20T12:09:56.187
+Unexpected IOException with stream: 3
+
+# Created at 2021-01-20T12:09:56.188
+Unexpected IOException with stream: 9
+
+# Created at 2021-01-20T12:09:56.188
+Unexpected IOException with stream: 6
+
+# Created at 2021-01-20T12:09:56.188
+Unexpected IOException with stream: .
+
+# Created at 2021-01-20T12:09:56.189
+Unexpected IOException with stream: 1
+
+# Created at 2021-01-20T12:09:56.189
+Unexpected IOException with stream: 8
+
+# Created at 2021-01-20T12:09:56.189
+Unexpected IOException with stream: 5
+
+# Created at 2021-01-20T12:09:56.189
+Unexpected IOException with stream: ]
+
+# Created at 2021-01-20T12:09:56.190
+Unexpected IOException with stream: [
+
+# Created at 2021-01-20T12:09:56.190
+Unexpected IOException with stream: W
+
+# Created at 2021-01-20T12:09:56.190
+Unexpected IOException with stream: A
+
+# Created at 2021-01-20T12:09:56.190
+Unexpected IOException with stream: R
+
+# Created at 2021-01-20T12:09:56.191
+Unexpected IOException with stream: N
+
+# Created at 2021-01-20T12:09:56.191
+Unexpected IOException with stream: I
+
+# Created at 2021-01-20T12:09:56.191
+Unexpected IOException with stream: N
+
+# Created at 2021-01-20T12:09:56.191
+Unexpected IOException with stream: G
+
+# Created at 2021-01-20T12:09:56.192
+Unexpected IOException with stream: ]
+
+# Created at 2021-01-20T12:09:56.192
+Unexpected IOException with stream: :
+
+# Created at 2021-01-20T12:09:56.192
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.192
+Unexpected IOException with stream: T
+
+# Created at 2021-01-20T12:09:56.193
+Unexpected IOException with stream: i
+
+# Created at 2021-01-20T12:09:56.193
+Unexpected IOException with stream: m
+
+# Created at 2021-01-20T12:09:56.193
+Unexpected IOException with stream: e
+
+# Created at 2021-01-20T12:09:56.193
+Unexpected IOException with stream: d
+
+# Created at 2021-01-20T12:09:56.193
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.194
+Unexpected IOException with stream: o
+
+# Created at 2021-01-20T12:09:56.194
+Unexpected IOException with stream: u
+
+# Created at 2021-01-20T12:09:56.194
+Unexpected IOException with stream: t
+
+# Created at 2021-01-20T12:09:56.194
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.194
+Unexpected IOException with stream: c
+
+# Created at 2021-01-20T12:09:56.195
+Unexpected IOException with stream: o
+
+# Created at 2021-01-20T12:09:56.195
+Unexpected IOException with stream: n
+
+# Created at 2021-01-20T12:09:56.195
+Unexpected IOException with stream: n
+
+# Created at 2021-01-20T12:09:56.195
+Unexpected IOException with stream: e
+
+# Created at 2021-01-20T12:09:56.196
+Unexpected IOException with stream: c
+
+# Created at 2021-01-20T12:09:56.196
+Unexpected IOException with stream: t
+
+# Created at 2021-01-20T12:09:56.196
+Unexpected IOException with stream: i
+
+# Created at 2021-01-20T12:09:56.197
+Unexpected IOException with stream: n
+
+# Created at 2021-01-20T12:09:56.197
+Unexpected IOException with stream: g
+
+# Created at 2021-01-20T12:09:56.197
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.197
+Unexpected IOException with stream: t
+
+# Created at 2021-01-20T12:09:56.197
+Unexpected IOException with stream: o
+
+# Created at 2021-01-20T12:09:56.198
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.198
+Unexpected IOException with stream: C
+
+# Created at 2021-01-20T12:09:56.198
+Unexpected IOException with stream: h
+
+# Created at 2021-01-20T12:09:56.198
+Unexpected IOException with stream: r
+
+# Created at 2021-01-20T12:09:56.199
+Unexpected IOException with stream: o
+
+# Created at 2021-01-20T12:09:56.199
+Unexpected IOException with stream: m
+
+# Created at 2021-01-20T12:09:56.199
+Unexpected IOException with stream: e
+
+# Created at 2021-01-20T12:09:56.199
+Unexpected IOException with stream: ,
+
+# Created at 2021-01-20T12:09:56.200
+Unexpected IOException with stream:  
+
+# Created at 2021-01-20T12:09:56.200
+Unexpected IOException with stream: r
+
+# Created at 2021-01-20T12:09:56.200
+Unexpected IOException with stream: e
+
+# Created at 2021-01-20T12:09:56.200
+Unexpected IOException with stream: t
+
+# Created at 2021-01-20T12:09:56.201
+Unexpected IOException with stream: r
+
+# Created at 2021-01-20T12:09:56.201
+Unexpected IOException with stream: y
+
+# Created at 2021-01-20T12:09:56.201
+Unexpected IOException with stream: i
+
+# Created at 2021-01-20T12:09:56.201
+Unexpected IOException with stream: n
+
+# Created at 2021-01-20T12:09:56.202
+Unexpected IOException with stream: g
+
+# Created at 2021-01-20T12:09:56.202
+Unexpected IOException with stream: .
+
+# Created at 2021-01-20T12:09:56.202
+Unexpected IOException with stream: .
+
+# Created at 2021-01-20T12:09:56.202
+Unexpected IOException with stream: .
+
+# Created at 2021-01-20T12:09:56.203
+Unexpected IOException with stream: 
+
+# Created at 2021-01-20T12:09:56.203
+Unexpected IOException with stream: 
+
+
+# Created at 2021-01-20T12:10:03.186
+Unexpected IOException: 8,1,com.websparks.tests.TestTodoLists,testAuthenticatedAddingAndRemovingTodoList(com.websparks.tests.TestTodoLists),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,TestTodoLists.testAuthenticatedAddingAndRemovingTodoList:20 \00BB WebDriver java.n...,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:20)\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:20)\000ACaused by: java.net.ConnectException: Connection refused: connect\000A\0009at com.websparks.tests.TestTodoLists.testAuthenticatedAddingAndRemovingTodoList(TestTodoLists.java:20)\000A
+
+
+# Created at 2021-01-20T12:10:07.303
+Unexpected IOException: 8,1,com.websparks.tests.TestTodoLists,afterSuite(com.websparks.tests.TestTodoLists),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver,TestTodoLists>BaseTest.afterSuite:21 \00BB WebDriver java.net.ConnectException: Fa...,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'VN-HCM-D-W-0014'\002C ip: '10.161.207.157'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:33923\000ACaused by: java.net.ConnectException: Connection refused: connect\000A
+
+
+# Created at 2021-01-20T12:10:07.354
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [websparks]" parallel="methods" data-provider-thread-count="1">
+  <test thread-count="1" verbose="0" name="WebDesk-SmokeTest(failed)" parallel="methods">
+    <parameter name="waitTime" value="20"/>
+    <classes>
+      <class name="com.websparks.tests.TestTodoLists">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="testAuthenticatedAddingAndRemovingTodoLists"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.websparks.tests.TestTodoLists -->
+    </classes>
+  </test> <!-- WebDesk-SmokeTest(failed) -->
+</suite> <!-- Failed suite [websparks] -->
